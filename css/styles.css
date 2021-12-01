@@ -272,6 +272,7 @@ h5 {
 }
 .wrappen-work {
   position: relative;
+  display: flex;
 }
 .wrappen-desktop {
   position: absolute;
